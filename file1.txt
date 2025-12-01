@@ -1,3 +1,2 @@
-This is file1
-This is updating from local repo to understand about the push command
+Learning branches
 

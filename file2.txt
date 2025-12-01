@@ -1,2 +1,1 @@
-This is file2
-This file2 is updating to understand about the git push command
+Learning branches
